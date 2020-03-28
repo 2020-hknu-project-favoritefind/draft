@@ -1,0 +1,21 @@
+hr {
+    visibility: hidden;
+}
+
+.location-obj {
+    padding: 2%;
+}
+
+.location-obj > img {
+    border-radius: 15% 40%;
+    width: 100%;
+}
+
+.location-obj > h1 {
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+.location-obj > p {
+    font-size: 12pt;
+}
